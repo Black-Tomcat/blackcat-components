@@ -1,6 +1,6 @@
 import React from 'react';
 
-import BText from "./components/Btext"
+import BText from "./src/components/BText";
 
 
 export {
